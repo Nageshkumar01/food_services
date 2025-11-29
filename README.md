@@ -87,11 +87,14 @@ npm start
 
 
 ## 🖼️ **Screenshots**
-![Uploading Screenshot (2667).png…]()
 
 ![Uploading Screenshot (2668).png…]()
 
-![Uploading Screenshot (2669).png…]()
+<img width="1920" height="1080" alt="Screenshot (2667)" src="https://github.com/user-attachments/assets/06ec2be4-f0ec-4b20-8682-cee21b29b2b4" />
+
+
+
+
 
 
 
